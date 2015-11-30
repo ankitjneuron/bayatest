@@ -5,7 +5,7 @@ describe("Baya API Test", function() {
     describe("Sign Up API", function() {
         it("Should return user object", function(done) {
             this.timeout(120000);
-            request.post({url: 'http://baya.whatall.com/api/users/signup', form: {
+            request.post({url: 'http://testbaya.whatall.com/api/users/signup', form: {
                     "user_type": "business_user",
                     "first_name": "Ankit",
                     "last_name": "Jain",
