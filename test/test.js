@@ -162,6 +162,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -187,6 +189,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -217,6 +221,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -243,6 +249,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -273,6 +281,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -333,6 +343,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -370,6 +382,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -394,6 +408,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -456,6 +472,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -487,6 +505,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -512,6 +532,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -538,6 +560,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -562,6 +586,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -588,6 +614,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -613,6 +641,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -637,6 +667,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -661,6 +693,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -685,6 +719,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -709,6 +745,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -731,6 +769,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -753,6 +793,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -776,6 +818,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -798,6 +842,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -820,6 +866,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -867,6 +915,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -889,6 +939,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -911,6 +963,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -933,6 +987,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -955,6 +1011,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -977,6 +1035,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -999,6 +1059,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1047,6 +1109,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1069,6 +1133,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1092,6 +1158,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1114,6 +1182,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1136,6 +1206,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1158,6 +1230,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1180,6 +1254,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1204,6 +1280,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1226,6 +1304,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1248,6 +1328,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1270,6 +1352,8 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
@@ -1298,6 +1382,104 @@ describe("Baya API Test", function() {
                         done();
                     }
                     else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
+                        console.log(JSON.parse(body));
+                        done();
+                    }
+                }
+            });
+        });
+    });
+    
+     describe("Get public cms pages", function() {
+        it("Should return page array", function(done) {
+            this.timeout(120000);
+            request.get({url: apiBaseUrl + 'api/public/getcmspage', form: {
+                    }}, function(err, httpResponse, body) {
+                if (err)
+                    throw err;
+                else {
+                    if (JSON.parse(body).success)
+                    {
+                        assert(Array.isArray([]), typeof (JSON.parse(body).data));
+                        done();
+                    }
+                    else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
+                        console.log(JSON.parse(body));
+                        done();
+                    }
+                }
+            });
+        });
+    });
+    
+     describe("Get public cms page detail", function() {
+        it("Should return object", function(done) {
+            this.timeout(120000);
+            request.get({url: apiBaseUrl + 'api/public/getcmspagedetail/terms-and-conditions', form: {
+                    }}, function(err, httpResponse, body) {
+                if (err)
+                    throw err;
+                else {
+                    if (JSON.parse(body).success)
+                    {
+                        assert.equal('object', typeof (JSON.parse(body).data));
+                        done();
+                    }
+                    else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
+                        console.log(JSON.parse(body));
+                        done();
+                    }
+                }
+            });
+        });
+    });
+    
+     describe("Get public master categosry list", function() {
+        it("Should return array", function(done) {
+            this.timeout(120000);
+            request.get({url: apiBaseUrl + 'api/public/getcategory', form: {
+                    }}, function(err, httpResponse, body) {
+                if (err)
+                    throw err;
+                else {
+                    if (JSON.parse(body).success)
+                    {
+                         assert(Array.isArray([]), typeof (JSON.parse(body).data));
+                        done();
+                    }
+                    else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
+                        console.log(JSON.parse(body));
+                        done();
+                    }
+                }
+            });
+        });
+    });
+    
+     describe("Get public business detail page", function() {
+        it("Should return object", function(done) {
+            this.timeout(120000);
+            request.get({url: apiBaseUrl + 'api/public/get-business-detail-by-id/'+listId, form: {
+                    }}, function(err, httpResponse, body) {
+                if (err)
+                    throw err;
+                else {
+                    if (JSON.parse(body).success)
+                    {
+                          assert.equal('object', typeof (JSON.parse(body).data));
+                        done();
+                    }
+                    else {
+                        // throw new Error(JSON.parse(body).message);
+                        //assert.equal('object',typeof(JSON.parse(body).data));
                         console.log(JSON.parse(body));
                         done();
                     }
